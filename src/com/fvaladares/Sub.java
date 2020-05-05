@@ -10,6 +10,6 @@ public class Sub extends Super{
     public void print2() {
         System.out.println("Opa, fui forçado a implementar este método....\n");
     }
-
+// Posso criar um método abstrato em uma classe concreta??
 
 }
