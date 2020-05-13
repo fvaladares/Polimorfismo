@@ -12,4 +12,9 @@ public class Sub extends Super{
     }
 // Posso criar um método abstrato em uma classe concreta??
 
+
+    @Override
+    public String toString() {
+        return "Hello World! From Sub!! :)";
+    }
 }
